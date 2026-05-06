@@ -1,0 +1,2 @@
+
+ import componentC from "./";
